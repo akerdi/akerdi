@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: tianxiaoxin001@gmail.com
 
-- ⚡ Fun fact: I like girls, I want to buy my second wife
+- ⚡ Fun fact: I like girls, I want to buy my second wife(if I become rich), But I like my littleshuai best.

@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on nodejs web server
+
+- 🌱 I’m currently learning Go web server
+
+- 👯 I’m looking to collaborate on [build-your-own-x]
+
+- 🤔 I’m looking for help with making money. Cause buying house is my first goal...
+
+- 💬 Ask me about nodejs web server & iOS(Object-C)
+
+- 📫 How to reach me: tianxiaoxin001@gmail.com
+
+- ⚡ Fun fact: I like girls, I want to buy my second wife

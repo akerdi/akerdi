@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Go web server
 
-- 👯 I’m looking to collaborate on [build-your-own-x]
-
-- 🤔 I’m looking for help with making money. Cause buying house is my first goal...
+- 🤔 I’m looking for help of making money. Cause buying house is my first goal...
 
 - 💬 Ask me about nodejs web server & iOS(Object-C)
 

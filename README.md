@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nodejs web server
 
-- 🌱 I’m currently learning Go web server
+- 🌱 I’m currently learning CPP, the goal to be more the man
 
 - 🤔 I’m looking for help of making money. Cause buying house is my first goal...
 

@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**shaohung001/shaohung001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [go to blog](https://shaohung001.github.io)
+- Working in IT of Shanghai.
+- Handle well language: Objective-C, JS.
+- Handle basic language: Golang.
+- Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
+- Learning language C && CPP.
+- Learning knowledge: [**Programing Language** 80%](http://www.buildyourownlisp.com/) / cpp-make OpengL Game(thecherno) 20% / [c-make db 0%](https://cstack.github.io/db_tutorial/) / [cpp-make db 0%](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 
 - 🔭 I’m currently working on Nodejs web server and Java web server.
 
@@ -32,3 +25,5 @@ Here are some ideas to get you started:
   earn money about 500,000 RMB can make dream happen.
   
   0% ..................................................
+
+IT years since 2014.2 - now

@@ -5,7 +5,7 @@
 + Handle well language: Objective-C, JS.
 + Handle basic language: Golang.
 + Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
-+ Learning language C && CPP.
++ Learning language: C && CPP.
 + Learning knowledge: 
   - [ ] [**Programing Language** 80%](http://www.buildyourownlisp.com/)
   - [ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)

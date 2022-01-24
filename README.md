@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-+ [Go to blog](https://shaohung001.github.io)
++ [Go To Blog](https://shaohung001.github.io)
 + Working in IT of Shanghai.
-+ Handle well language: Objective-C, JS.
++ Handle well language: Objective-C, JS, JAVA.
 + Handle basic language: Golang.
 + Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
 + Learning language: C && CPP.
@@ -18,7 +18,13 @@
     - [x] 管理的常识
     - [ ] 其他管理书籍(请列举)
   + 技术
+    - [x] 微服务容器化
     - [ ] 编程之美 20%
+
++ Intesting:
+  + Painting
+  + Gaming(make game)
+  + Drive
 
 + 📫 How to reach me: tianxiaoxin001@gmail.com
 

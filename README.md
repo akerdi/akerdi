@@ -7,7 +7,7 @@
 + Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
 + Learning language: C && CPP.
 + Learning knowledge: 
-  - [ ] [c-make **Programing Language** 80%](http://www.buildyourownlisp.com/)
+  - [ ] [c-make **Programing Language** 90%](http://www.buildyourownlisp.com/)
   - [ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make db 0%](https://cstack.github.io/db_tutorial/)

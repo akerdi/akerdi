@@ -7,7 +7,7 @@
 + Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
 + Learning language: C && CPP.
 + Learning knowledge: 
-  - [ ] [c-make **Programing Language** 90%](http://www.buildyourownlisp.com/)
+  - [ ] [c-make **Programing Language** 95%](http://www.buildyourownlisp.com/)
   - [ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make db 0%](https://cstack.github.io/db_tutorial/)
@@ -28,10 +28,10 @@
 
 + 📫 How to reach me: tianxiaoxin001@gmail.com
 
-+ ⚡ Fun fact: I like girls, I want to buy my second wife(if I become rich), But I like my littleshuai best.
++ ⚡ Fun fact: I like girls, I want married with more wife(if I become rich), But I like my littleshuai best.
 
   earn money about 500,000 RMB can make dream happen.
   
-  0% ..................................................
+  -0.02% ..................................................
 
 IT years since 2014.2 - now

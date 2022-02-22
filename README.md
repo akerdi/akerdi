@@ -7,8 +7,9 @@
 + Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
 + Learning language: C && CPP.
 + Learning knowledge: 
-  - [ ] [c-make **Programing Language** 95%](http://www.buildyourownlisp.com/)
-  - [ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
+  - [x] [c-make **Programing Language** 95%](http://www.buildyourownlisp.com/)
+  - [ ] c-make **Programing Language** write an artical
+  - [x] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make db 0%](https://cstack.github.io/db_tutorial/)
   - [ ] [cpp-make db 0%](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
@@ -30,8 +31,8 @@
 
 + ⚡ Fun fact: I like girls, I want married with more wife(if I become rich), But I like my littleshuai best.
 
-  earn money about 500,000 RMB can make dream happen.
+  earn money about 100,000 RMB can make dream happen.
   
-  -0.02% ..................................................
+  -0.11% ..................................................
 
 IT years since 2014.2 - now

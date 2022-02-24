@@ -8,7 +8,7 @@
 + Learning language: C && CPP.
 + Learning knowledge: 
   - [x] [c-make **Programing Language** 95%](http://www.buildyourownlisp.com/)
-  - [ ] c-make **Programing Language** write an artical
+  - [ ] c-make **Programing Language** write an artical 50%
   - [x] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make db 0%](https://cstack.github.io/db_tutorial/)

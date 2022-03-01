@@ -11,6 +11,7 @@
   - [x] c-make **Programing Language** write an artical 95%
   - [x] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
+  - [ ] [c-make space-shooter](https://github.com/tsherif/space-shooter.c)
   - [ ] [c-make db 0%](https://cstack.github.io/db_tutorial/)
   - [ ] [cpp-make db 0%](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 

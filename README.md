@@ -10,7 +10,7 @@
   - [x] [c-make **Programing Language** 97%](http://www.buildyourownlisp.com/)
   - [x] c-make **Programing Language** write an artical 95%
   - [x] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
-  - [ ] [c-make db 30%](https://cstack.github.io/db_tutorial/)
+  - [ ] [c-make db 50%](https://cstack.github.io/db_tutorial/)
   - [ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make space-shooter](https://github.com/tsherif/space-shooter.c)

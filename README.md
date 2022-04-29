@@ -10,11 +10,10 @@
   - [x] [c-make **Programing Language** 97%](http://www.buildyourownlisp.com/)
   - [x] c-make **Programing Language** write an artical 95%
   - [x] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
-  - [ ] [c-make db 50%](https://cstack.github.io/db_tutorial/)
+  - [ ] [c-make db 60%](https://cstack.github.io/db_tutorial/)
   - [ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make space-shooter](https://github.com/tsherif/space-shooter.c)
-  - [ ] [cpp-make How X Window Managers work and how to write one](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
   - [ ] [cpp-make db 0%](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 
 + 书
@@ -36,6 +35,6 @@
 
   earn money about 100,000 RMB can make dream happen.
   
-  -0.11% ..................................................
+  -0.1% ..................................................
 
 IT years since 2014.2 - now

@@ -2,7 +2,7 @@
 
 + [Go To Blog](https://shaohung001.github.io)
 + Working in IT of Shanghai.
-+ Handle well language: Objective-C, JS, JAVA.
++ Handle well language: Objective-C, JS, JAVA, C, CPP.
 + Handle basic language: Golang.
 + Knowledge: App (backend && app) / Shell(golang&clang) / Game(Cocoacreator).
 + Learning language: C && CPP.

@@ -10,7 +10,7 @@
   - [x] [c-make **Programing Language** 97%](http://www.buildyourownlisp.com/)
   - [x] c-make **Programing Language** write an artical 95%
   - [x] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
-  - [ ] [c-make db 60%](https://cstack.github.io/db_tutorial/)
+  - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/)
   - [ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make space-shooter](https://github.com/tsherif/space-shooter.c)
@@ -31,7 +31,7 @@
 
 + 📫 How to reach me: tianxiaoxin001@gmail.com
 
-+ ⚡ Fun fact: I like girls, I want to have more gf(if I become rich), But I like my littleshuai best.
+<!-- + ⚡ Fun fact: I like girls, I want to have more gf(if I become rich), But I like my littleshuai best. -->
 
   earn money about 100,000 RMB can make dream happen.
   

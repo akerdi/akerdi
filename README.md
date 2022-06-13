@@ -11,10 +11,14 @@
   - [x] c-make **Programing Language** write an artical 95%
   - [ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [x] [c-make db 90%](https://cstack.github.io/db_tutorial/)
-  - [ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
+  - [x] [c-make db doc 95%](https://github.com/akerdi/buildyourownsqlite)
+  - [ ] [c-make super tiny compiler](https://github.com/akerdi/super-tiny-compiler)
+  - [ ] 中级软考
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
   - [ ] [c-make space-shooter](https://github.com/tsherif/space-shooter.c)
   - [ ] [cpp-make db 0%](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+  - [ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
+  - [ ] c-make translate other program
 
 + 书
   + 管理学

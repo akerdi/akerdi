@@ -11,7 +11,8 @@
   - [x] c-make **Programing Language** write an artical 95%
   - [ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)
   - [x] [c-make db 90%](https://cstack.github.io/db_tutorial/)
-  - [x] [c-make db doc 95%](https://github.com/akerdi/buildyourownsqlite)
+  - [x] [c-make db doc 98%](https://github.com/akerdi/buildyourownsqlite)
+  - [ ] [c-make buildyourownshell doc 0%](https://github.com/akerdi/buildyourownshell)
   - [ ] [c-make super tiny compiler](https://github.com/akerdi/super-tiny-compiler)
   - [ ] 中级软考
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)

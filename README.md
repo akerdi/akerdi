@@ -31,7 +31,7 @@
     - [x] 微服务容器化
     - [ ] 编程之美 20%
 
-+ Intesting:
++ Interesting:
   + Painting
   + Gaming(make game)
   + Drive

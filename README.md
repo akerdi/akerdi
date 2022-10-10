@@ -12,8 +12,8 @@
   - ~[ ] [c-make hash table 0%](https://github.com/jamesroutley/write-a-hash-table)~
   - [x] [c-make db 90%](https://cstack.github.io/db_tutorial/)
   - [x] [c-make db doc 98%](https://github.com/akerdi/buildyourownsqlite)
-  - [ ] [c-make buildyourownshell doc 0%](https://github.com/akerdi/buildyourownshell)
-  - [ ] [ts jslispy doc30%](https://github.com/akerdi/jslispy)
+  - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
+  - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
   - [ ] [c-make super tiny compiler 0%](https://github.com/akerdi/super-tiny-compiler)
   - [ ] 考取摩托车证 50%
   - [ ] 中级软考

@@ -16,11 +16,11 @@
   - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
   - [ ] [c-make super tiny compiler 0%](https://github.com/akerdi/super-tiny-compiler)
   - [ ] 考取摩托车证 50%
-  - [ ] 中级软考
+  - [ ] 中级软考 0%
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/medialist/play/watchlater/BV1MJ411u7Bc)
-  - [ ] [c-make space-shooter](https://github.com/tsherif/space-shooter.c)
+  - [ ] [c-make space-shooter 0%](https://github.com/tsherif/space-shooter.c)
   - [ ] [cpp-make db 0%](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
-  - [ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
+  - ~[ ] [c-make An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)~
   - [ ] c-make translate other program
 
 + 书

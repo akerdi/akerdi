@@ -37,6 +37,8 @@
   + 技术
     - [x] 微服务容器化
     - [ ] 编程之美 20%
+    - [x] Elasticsearch In Action
+    - [ ] 数据结构与算法分析 1%
 
 + Interesting:
   + Painting

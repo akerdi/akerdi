@@ -14,7 +14,7 @@
   - [x] [c-make db doc 98%](https://github.com/akerdi/buildyourownsqlite)
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%
-  - [ ] Tinyhttpd学习 + 文档 40%
+  - [ ] Tinyhttpd学习40% + 文档0%
   - [ ] 中级软考 0%
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%

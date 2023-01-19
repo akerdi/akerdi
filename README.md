@@ -13,7 +13,7 @@
   - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/)  [文档doc 100%](https://github.com/akerdi/buildyourownsqlite)
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%
-  - [x] Tinyhttpd学习100% + [文档doc10%](https://github.com/akerdi/tinyhttpd)
+  - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
   - [ ] 中级软考 0%
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%

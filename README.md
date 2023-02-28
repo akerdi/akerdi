@@ -22,13 +22,13 @@
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
     - [ ] [c-make super tiny compiler 0%](https://github.com/akerdi/super-tiny-compiler)
     
-+ 学习赚钱
+<!-- + 学习赚钱
   + 游戏
     - [x] cocoscreator学习
     - [x] flappybird
     - [x] 打飞机
     - [x] 打小鸟 
-    - [ ] 蚊香消消乐
+    - [ ] 蚊香消消乐 -->
 
 + 书
   + 管理学

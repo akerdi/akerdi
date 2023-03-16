@@ -18,7 +18,7 @@
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
-    - [ ] [c-make super tiny compiler 0%](https://github.com/akerdi/super-tiny-compiler)
+    - [x] [c-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)
     
 <!-- + 学习赚钱
   + 游戏
@@ -51,6 +51,6 @@
 
   earn money about 100,000 RMB can make dream happen.
   
-  -250% ..................................................
+  -240% ..................................................
 
 IT years since 2014.2 - now

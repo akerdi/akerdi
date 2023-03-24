@@ -18,7 +18,8 @@
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
-    - [x] [c-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)
+    - [x] [cpp-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)
+    - [x] [cpp-make cpplispy 100%](https://github.com/akerdi/cpplispy)
     
 <!-- + 学习赚钱
   + 游戏

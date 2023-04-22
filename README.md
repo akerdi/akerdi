@@ -7,7 +7,7 @@
 + Learning knowledge: 
   - [x] [c-make **Programing Language** 99%](http://www.buildyourownlisp.com/)
   - [x] c-make **Programing Language** write an artical 95%
-  - [x] [c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table) /  [cpp-make hash-table doc 20%](https://github.com/build-your-own-hash-table)
+  - [x] [c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table) /  [cpp-make hash-table doc 20%](https://github.com/akerdi/build-your-own-hash-table)
   - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/)  [文档doc 100%](https://github.com/akerdi/buildyourownsqlite)
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%

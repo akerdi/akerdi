@@ -7,12 +7,12 @@
 + Learning knowledge: 
   - [x] [c-make **Programing Language** 99%](http://www.buildyourownlisp.com/)
   - [x] c-make **Programing Language** write an artical 95%
-  - [ ] [c-make hash table 10%](https://github.com/jamesroutley/write-a-hash-table)
+  - [x] [c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table) /  [cpp-make hash-table doc 20%](https://github.com/build-your-own-hash-table)
   - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/)  [文档doc 100%](https://github.com/akerdi/buildyourownsqlite)
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%
   - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
-  - [ ] [cpp-make build-your-own-redis 20%]()
+  - [ ] [cpp-make build-your-own-redis 20%](https://build-your-own.org/redis/)
   - [ ] 中级软考 0%
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%

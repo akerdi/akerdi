@@ -12,7 +12,7 @@
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%
   - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
-  - [ ] [cpp-make build-your-own-redis 20%](https://build-your-own.org/redis/)
+  - [ ] [cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/) / [cpp-make build-your-own-redis doc 0%](https://github.com/akerdi/build-your-own-redis)
   - [ ] 中级软考 0%
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%

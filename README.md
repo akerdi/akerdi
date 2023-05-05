@@ -7,8 +7,8 @@
 + Learning knowledge: 
   - [x] [c-make **Programing Language** 99%](http://www.buildyourownlisp.com/)
   - [x] c-make **Programing Language** write an artical 95%
-  - [x] [c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table) /  [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
-  - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/)  [文档doc 100%](https://github.com/akerdi/buildyourownsqlite)
+  - [x] [c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table)
+  - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/) / [doc 100%](https://github.com/akerdi/buildyourownsqlite)
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%
   - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
@@ -21,6 +21,7 @@
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
     - [x] [cpp-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)
     - [x] [cpp-make cpplispy 100%](https://github.com/akerdi/cpplispy)
+    - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
     
 <!-- + 学习赚钱
   + 游戏

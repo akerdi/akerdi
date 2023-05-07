@@ -12,7 +12,7 @@
   - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] 考取摩托车证 100%
   - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
-  - [ ] [cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/)
+  - [x] [cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/)
   - [ ] 中级软考 0%
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%
@@ -44,8 +44,10 @@
     - [ ] 《计算机组成原理》 40%
 
 + Interesting:
-  + Painting
-  + Gaming
+  + Code
+  + Sport
+  + Paint
+  + Game
   + Drive
 <!--   + Girls -->
 
@@ -53,7 +55,7 @@
 
 <!-- + ⚡ Fun fact: I like girls, I want to have more gf(if I become rich), But I like my littleshuai best. -->
 
-  earn money about 100,000 RMB can make dream happen.
+  Earn money about 30,000,000 RMB can make dream happen.
   
   -250% ..................................................
 

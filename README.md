@@ -58,5 +58,18 @@
   Earn money about 30,000,000 RMB can make dream happen.
   
   -250% ..................................................
+  
++ 开课
+
+往期教学:
+
+  + <a target="_blank" href="https://github.com/akerdi/build-your-own-redis">/akerdi/build-your-own-redis</a>
+  + <a target="_blank" href="/akerdi/build-your-own-hash-table">/akerdi/build-your-own-hash-table</a>
+  + /akerdi/buildyourowndatabase
+  + /akerdi/lval
+  + /akerdi/jslispy
+  + /akerdi/build-your-own-hash-table
+  + /akerdi/tinyhttpd
+  + /akerdi/buildyourownshell
 
 IT years since 2014.2 - now

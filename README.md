@@ -42,6 +42,7 @@
     - [x] 《Elasticsearch In Action》
     - [ ] 《数据结构与算法分析》 1%
     - [ ] 《计算机组成原理》 40%
+    - [x] [《Beej's Guide to Network Programming》100%](https://beej.us/guide/bgnet/)
 
 + Interesting:
   + Code

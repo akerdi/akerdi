@@ -24,12 +24,13 @@
     - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
     - [ ] [cpp-make redis 10%](https://github.com/akerdi/build-your-own-redis)
     
-<!-- + 学习赚钱
++ 学习赚钱
   + 游戏
     - [x] cocoscreator学习
     - [x] flappybird
     - [x] 打飞机
     - [x] 打小鸟 
+
 
 + 书
   + 管理学

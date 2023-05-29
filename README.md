@@ -22,7 +22,7 @@
     - [x] [cpp-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)
     - [x] [cpp-make cpplispy 100%](https://github.com/akerdi/cpplispy)
     - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
-    - [ ] [cpp-make redis 10%](https://github.com/akerdi/build-your-own-redis)
+    - [x] [cpp-make redis 100%](https://github.com/akerdi/build-your-own-redis)
     
 + 学习赚钱
   + 游戏
@@ -42,7 +42,7 @@
     - [ ] 《编程之美》 20%
     - [x] 《Elasticsearch In Action》
     - [ ] 《数据结构与算法分析》 1%
-    - [ ] 《计算机组成原理》 40%
+    - [x] 《计算机组成原理》 50%
     - [x] [《Beej's Guide to Network Programming》100%](https://beej.us/guide/bgnet/)
 
 + Interesting:

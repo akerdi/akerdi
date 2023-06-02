@@ -23,6 +23,7 @@
     - [x] [cpp-make cpplispy 100%](https://github.com/akerdi/cpplispy)
     - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
     - [x] [cpp-make redis 100%](https://github.com/akerdi/build-your-own-redis)
+    - [ ] [cpp-make build_your_own_log](/akerdi/build_your_own_log)
     
 + 学习赚钱
   + 游戏

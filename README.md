@@ -13,6 +13,7 @@
   - [x] 考取摩托车证 100%
   - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
   - [x] [cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/)
+  - [x] [cpp-make build_your_own_log 100%](https://github.com/rxi/log.c) / [doc 100%](https://github.com/akerdi/build_your_own_log)
   - [ ] 中级软考 0%
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%
@@ -23,7 +24,7 @@
     - [x] [cpp-make cpplispy 100%](https://github.com/akerdi/cpplispy)
     - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
     - [x] [cpp-make redis 100%](https://github.com/akerdi/build-your-own-redis)
-    - [ ] [cpp-make build_your_own_log 0%](https://github.com/akerdi/build_your_own_log)
+    - [x] [cpp-make build_your_own_log 100%](https://github.com/akerdi/build_your_own_log)
     
 + 学习赚钱
   + 游戏
@@ -68,11 +69,12 @@
 
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-redis">/akerdi/build-your-own-redis</a>
   + <a target="_blank" href="/akerdi/build-your-own-hash-table">/akerdi/build-your-own-hash-table</a>
-  + [/akerdi/buildyourowndatabase](/akerdi/buildyourowndatabase)
-  + [/akerdi/lval](/akerdi/lval)
-  + [/akerdi/jslispy](/akerdi/jslispy)
-  + [/akerdi/build-your-own-hash-table](/akerdi/build-your-own-hash-table)
-  + [/akerdi/tinyhttpd](/akerdi/tinyhttpd)
-  + [/akerdi/buildyourownshell](/akerdi/buildyourownshell)
+  + [/akerdi/build-your-own-log](https://github.com/akerdi/build_your_own_log)
+  + [/akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)
+  + [/akerdi/lval](https://github.com/akerdi/lval)
+  + [/akerdi/jslispy](https://github.com/akerdi/jslispy)
+  + [/akerdi/build-your-own-hash-table](https://github.com/akerdi/build-your-own-hash-table)
+  + [/akerdi/tinyhttpd](https://github.com/akerdi/tinyhttpd)
+  + [/akerdi/buildyourownshell](https://github.com/akerdi/buildyourownshell)
 
 IT years since 2014.2 - now

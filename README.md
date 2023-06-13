@@ -79,5 +79,6 @@
   + [/akerdi/buildyourownshell](https://github.com/akerdi/buildyourownshell)
 
 + 承接C++服务器开发项目，欢迎联系微信: akerdi
++ 承接Nodejs前后端开发项目，欢迎联系微信: akerdi
 
 IT years since 2014.2 - now

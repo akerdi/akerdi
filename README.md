@@ -18,6 +18,7 @@
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
+  - [ ] [learn tinywebserver 1%](https://github.com/qinguoyi/TinyWebServer)
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
     - [x] [cpp-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)
@@ -76,5 +77,7 @@
   + [/akerdi/build-your-own-hash-table](https://github.com/akerdi/build-your-own-hash-table)
   + [/akerdi/tinyhttpd](https://github.com/akerdi/tinyhttpd)
   + [/akerdi/buildyourownshell](https://github.com/akerdi/buildyourownshell)
+
++ 承接C++服务器开发项目，欢迎联系微信: akerdi
 
 IT years since 2014.2 - now

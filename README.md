@@ -69,7 +69,7 @@
 欢迎联系微信: akerdi, 有偿指导以下课程(非工作时间):
 
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-redis">/akerdi/build-your-own-redis</a>
-  + <a target="_blank" href="/akerdi/build-your-own-hash-table">/akerdi/build-your-own-hash-table</a>
+  + <a target="_blank" href="https://github.com/akerdi/build-your-own-hash-table">/akerdi/build-your-own-hash-table</a>
   + [/akerdi/build-your-own-log](https://github.com/akerdi/build_your_own_log)
   + [/akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)
   + [/akerdi/lval](https://github.com/akerdi/lval)

@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 + [Go To Blog](https://akerdi.github.io)
 + Working in IT of Shanghai.
@@ -64,10 +64,10 @@
   
   -250% ..................................................
   
-+ 开课
+## 开课
 
-欢迎联系微信: akerdi, 有偿指导以下课程(非工作时间):
-
+欢迎联系微信: akerdi, 有偿指导以下课程, 达到清晰理解每个知识点(预约时间):
+  + <a target="_blank" href="https://github.com/qinguoyi/TinyWebServer">TinyWebServer</a>
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-redis">/akerdi/build-your-own-redis</a>
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-hash-table">/akerdi/build-your-own-hash-table</a>
   + [/akerdi/build-your-own-log](https://github.com/akerdi/build_your_own_log)

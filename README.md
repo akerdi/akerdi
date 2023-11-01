@@ -20,6 +20,7 @@
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   - [x] [learn tinywebserver 100%](https://github.com/qinguoyi/TinyWebServer) / [doc 0%]
   - [ ] [learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
+  - [ ] 英语学习计划，4级单词修炼 10%
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
     - [x] [cpp-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)

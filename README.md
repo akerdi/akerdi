@@ -18,7 +18,7 @@
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%
   - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
-  - [x] [learn tinywebserver 100%](https://github.com/qinguoyi/TinyWebServer) / [doc 40%](https://github.com/akerdi/tinywebserver)
+  - [x] [learn tinywebserver 100%](https://github.com/qinguoyi/TinyWebServer) / [doc 100%](https://github.com/akerdi/tinywebserver) / [video 0%](https://bilibili.com)
   - [ ] [learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
   - [ ] 英语学习计划，4级单词修炼 10%
   + 代码翻译计划

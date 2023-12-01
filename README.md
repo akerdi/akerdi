@@ -4,23 +4,35 @@
 + Working in IT of Shanghai.
 + Handle well language: C, C++, NodeJS, Objective-C.
 + Knowledge: 编译原理、数据库开发、Socket、全栈开发Nodejs & Vue.
-+ Learning knowledge: 
-  - [x] [c-make **Programing Language** 99%](http://www.buildyourownlisp.com/)
-  - [x] c-make **Programing Language** write an artical 95%
-  - [x] [c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table)
-  - [x] [c-make db 80%](https://cstack.github.io/db_tutorial/) / [doc 100%](https://github.com/akerdi/buildyourownsqlite)
-  - [x] [c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
-  - [x] 考取摩托车证 100%
-  - [x] Tinyhttpd学习100% + [文档doc100%](https://github.com/akerdi/tinyhttpd)
-  - [x] [cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/)
-  - [x] [cpp-make build_your_own_log 100%](https://github.com/rxi/log.c) / [doc 100%](https://github.com/akerdi/build_your_own_log)
-  - [ ] 中级软考 0%
++ Learning knowledge progress: 
   - [ ] opengl学习 (已完成基础) 20%
   - [ ] opengl文档 0%
-  - [ ] [cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
-  - [x] [learn tinywebserver 100%](https://github.com/qinguoyi/TinyWebServer) / [doc 100%](https://github.com/akerdi/tinywebserver) / [video 0%](https://bilibili.com)
-  - [ ] [learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
-  - [ ] 英语学习计划，4级单词修炼 10%
+  - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
+  - [ ] [start2105... 中级软考 0%]
+  - [ ] [start2311... learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
+  - [ ] [start231202... tinywebserver video 0%](https://bilibili.com)
+  - [x] [start231121...done231130 tinywebserver doc 100%](https://github.com/akerdi/tinywebserver)
+  - [x] [start2306...done2311 learn tinywebserver 100%](https://github.com/qinguoyi/TinyWebServer)
+  - [x] [start230603...done230604 cpp-make build_your_own_log doc 100%](https://github.com/akerdi/build_your_own_log)
+  - [x] [start2304...done2306 cpp-make build_your_own_log 100%](https://github.com/rxi/log.c)
+  - [x] [start230404...done2306 cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/)
+  - [x] [start230501...done230528 c-make hash table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
+  - [x] [start2304...done230430 c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table)
+  - [ ] [start2304...]英语学习计划，4级单词修炼 10%
+  - [x] [start230216...done230501 c-make db doc 100%](https://github.com/akerdi/buildyourownsqlite)
+  - [x] [start2202...done2210 c-make db 100%](https://cstack.github.io/db_tutorial/)
+  - [x] [start230105...done230702 Tinyhttpd doc 100%](https://github.com/akerdi/tinyhttpd)
+  - [x] [start2212...done2301 Tinyhttpd学习100%](http://www.buildyourownlisp.com/)
+  <!-- [x] [c-make **Programing Language** 99%](http://www.buildyourownlisp.com/) -->
+  <!-- [x] c-make **Programing Language** write an artical 95% -->
+  - [x] [start221008...done221008 c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
+  - [x] [start220901...done230206 jslisp doc 100%](https://github.com/akerdi/jslispy)
+  - [x] [start220831...done221215 js compiler doc 100%](https://github.com/akerdi/compiler)
+  - [x] 考取摩托车证 100%
+  - [x] [start220226...done220508 c-make buildyourownlist doc 100%](http://www.buildyourownlisp.com/)
+  - [x] [start210731...done220220 c-make buildyourownlist 100%](http://www.buildyourownlisp.com/)
+  - [x] [start20210616... start learn c(give up golang)] 
+  
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
     - [x] [cpp-make super tiny compiler 100%](https://github.com/akerdi/cpp_compiler)

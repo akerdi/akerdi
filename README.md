@@ -40,6 +40,7 @@
     - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
     - [x] [cpp-make redis 100%](https://github.com/akerdi/build-your-own-redis)
     - [x] [cpp-make build_your_own_log 100%](https://github.com/akerdi/build_your_own_log)
+    - [x] [cpp-make tinywebserver doc 100%](https://github.com/akerdi/tinywebserver-private) 
     
 + 学习赚钱
   + 游戏
@@ -81,15 +82,34 @@
 ## 开课
 
 欢迎联系微信: akerdi, 有偿指导以下课程, 达到清晰理解每个知识点(预约时间):
-  + <a target="_blank" href="https://github.com/qinguoyi/TinyWebServer">TinyWebServer</a>
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-redis">/akerdi/build-your-own-redis</a>
+  
+How to make a basic redis. No yet done the whole project, it only include the user input to cache data by using socket and hashtable technology.
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-hash-table">/akerdi/build-your-own-hash-table</a>
+  
+gcc hashtable knowledge.
   + [/akerdi/build-your-own-log](https://github.com/akerdi/build_your_own_log)
+
+gcc stack learn basic usage. build your own log.
   + [/akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)
+
+gcc stack that teaches you how to make a database using b+ tree algorithm, this makes getting items within a logarithm time.
   + [/akerdi/lval](https://github.com/akerdi/lval)
+
+C++ stack that teaches you read user input a lisp language script, then evaluate the request.
   + [/akerdi/jslispy](https://github.com/akerdi/jslispy)
+
+Javascript(typescript) stack that teaches you read user input a lisp language script, then evaluate the request.
   + [/akerdi/tinyhttpd](https://github.com/akerdi/tinyhttpd)
+
+gcc project that give knowledge about basic http protocol and socket contact within main process and pipe to child process. Main proccess answers user request, and child process execute the repsonse.
   + [/akerdi/buildyourownshell](https://github.com/akerdi/buildyourownshell)
+
+gcc build shell that can read user input and evaluate commands.
+  + [/akerdi/tinywebserver](https://github.com/akerdi/tinywebserver-private)
+
+C++ server, construct with socket and epoll technologies. This repository helps you understand how to use C++ to make an HTTP server.
+
 
 + 承接C++服务器开发项目，欢迎联系微信: akerdi
 + 承接Nodejs前后端开发项目，欢迎联系微信: akerdi

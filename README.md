@@ -81,7 +81,7 @@
   
 ## 开课
 
-欢迎联系微信: akerdi, 有偿指导以下课程, 达到清晰理解每个知识点(预约时间):
+欢迎联系微信: akerdi, 有偿指导以下课程, 达到清晰理解每个知识点(预约时间 - 周末), 欢迎联系, 询问有礼(送试听视频 - 正在录制中，欢迎拍砖):
   + <a target="_blank" href="https://github.com/akerdi/build-your-own-redis">/akerdi/build-your-own-redis</a>
   
 How to make a basic redis. No yet done the whole project, it only include the user input to cache data by using socket and hashtable technology.

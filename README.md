@@ -115,6 +115,6 @@ C++ server, construct with socket and epoll technologies. This repository helps 
 
 + 承接C++服务器开发项目，欢迎联系微信: akerdi
 + 承接Nodejs前后端开发项目，欢迎联系微信: akerdi
-  !-- + 欢迎关注微信订阅号 · 哈士程视界-->
+<!-- + 欢迎关注微信订阅号 · 哈士程视界-->
 
 IT years since 2014.2 - now

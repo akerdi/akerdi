@@ -10,8 +10,9 @@
   - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   - [ ] [start2105... 中级软考 0%]
   - [ ] [start2311... learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
-  - [ ] [start ... No.js 0%]
-  - [ ] [start231215...done231223 Learn_V8 60%](https://github.com/akerdi/Learn_V8)
+  
+  ~~- [ ] [start ... No.js 20%](知晓如何构建和调用过程)~~
+  - [x] [start231215...done231223 Learn_V8 60%](https://github.com/akerdi/Learn_V8)
   - [ ] [start231202... tinywebserver video 0%](https://bilibili.com)
   - [x] [start231121...done231130 tinywebserver doc 100%](https://github.com/akerdi/tinywebserver)
   - [x] [start2306...done2311 learn tinywebserver 100%](https://github.com/qinguoyi/TinyWebServer)

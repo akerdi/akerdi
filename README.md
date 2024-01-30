@@ -65,6 +65,12 @@
     - [ ] 《数据结构与算法分析》 1%
     - [x] 《计算机组成原理》 50%
     - [x] [《Beej's Guide to Network Programming》100%](https://beej.us/guide/bgnet/)
+  + 小说
+    - [x] 霸道人生 - 有点意思
+    - [x] 武动乾坤 - 看动漫+听bilibili和z-library 联合起来肝完。1200篇之后作者急了，步子迈大了扯着蛋了，感情处理也是虎头蛇尾没有交代。
+    - [x] 神墓 - 想象力宏大，有意思
+    - [x] 仙逆 - 清新脱俗，写的也不错
+    - [x] 明朝那些事 - 推荐
 
 + Interesting:
   + Code

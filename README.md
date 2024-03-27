@@ -5,12 +5,13 @@
 + Handle well language: C, C++, NodeJS, Objective-C.
 + Knowledge: 编译原理、数据库开发、Socket、全栈开发Nodejs & Vue.
 + Learning knowledge progress: 
-  - [ ] opengl学习 (已完成基础) 20%
+  - [ ] opengl学习 (基础) 20%
   - [ ] opengl文档 0%
   - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   - [ ] [start2105... 中级软考 0%]
   - [ ] [start2311... learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
-  
+  - [ ] [Learn os with doc 1%](https://github.com/akerdi/os01)
+  - [x] [LearnV8 with doc 100%](https://github.com/akerdi/Learn_V8)
   ~~- [ ] [start ... No.js 20%](知晓如何构建和调用过程)~~
   - [x] [start231215...done231223 Learn_V8 60%](https://github.com/akerdi/Learn_V8)
   - [ ] [start231202... tinywebserver video 0%](https://bilibili.com)

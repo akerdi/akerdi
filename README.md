@@ -36,7 +36,9 @@
   - [x] 考取摩托车证 100%
   - [x] [start220226...done220508 c-make buildyourownlist doc 100%](http://www.buildyourownlisp.com/)
   - [x] [start210731...done220220 c-make buildyourownlist 100%](http://www.buildyourownlisp.com/)
-  - [x] [start20210616... start learn c(give up golang)] 
+  - [x] [start20210616... start learn c(give up golang)]
+  - [ ] 汇编梳理文档 0%
+  - [ ] 电子电路学习文档 0%
   
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)
@@ -69,6 +71,9 @@
     - [ ] 《数据结构与算法分析》 1%
     - [x] 《计算机组成原理》 50%
     - [x] [《Beej's Guide to Network Programming》100%](https://beej.us/guide/bgnet/)
+    - [ ] <小鱼儿汇编>[bilibili.com] 10%
+    - [x] <凡忆教育-电子电路>[bilibili.com] 50% / doc [50%]
+    - [x] <esp32学习>[bilibili.com] 90%
    
   <!--
   + 小说
@@ -77,7 +82,14 @@
     - [x] 神墓 - 想象力宏大，有意思
     - [x] 仙逆 - 清新脱俗，写的也不错
     - [x] 明朝那些事 - 推荐
-    - [x] 修真聊天群 - 时间杀手，看起来挺无聊的，浪费时间
+    - [x] 修真聊天群 - 时间杀手, 可太长太长太长了, 逗比文太长, 里边能有所收获为0. 看起来挺无聊的，浪费时间. 最后总结是
+    - [x] 永生 - 写的太烂了, 看不下去, 差劲的小说及作者写小说功底.
+    - [x] 遮天 - 当前看了视频实在是细腻, 还没看小说. 里边有写主角苟, 但是都合理, 不合理的地方, 也是作者的设计, 就都接受成了合理性了.
+    - [x] 鬼吹灯 - 看了好几篇, 但是夜里听音频怕被吓到, 就停了.
+    - [x] 都市偷香贼 - 抛开sexy 还是<永生>写得好太多太多了好吧. 就是主题[黑|灰|白] 老是强调这个, 可太2了. 这块看着有点侮辱俺智商.
+    - [x] 斗破苍穹 - 不好看. 对于那些一上来就有灵兽, 有大牛啥的, 有点免疫了.
+    - [x] 金瓶梅 - 2%, 刚开始, 还排不出时间去看.
+  
   -->
 
 + Interesting:

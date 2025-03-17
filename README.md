@@ -9,6 +9,9 @@
   - [ ] opengl文档 0%
   - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   - [ ] [start2105... 中级软考 0%]
+  - [ ] [电子电路学习文档250330... 0%]
+  - [ ] [learn_assembly250301... 40%](https://github.com/akerdi/learn_assembly)
+  - [x] [learn_makefile](https://github.com/akerdi/learn_makefile)
   - [ ] [start2311... learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
   - [ ] [start240325... Learn os with doc 1%](https://github.com/akerdi/os01)
   - [x] [start231201...done240301 LearnV8 with doc 100%](https://github.com/akerdi/Learn_V8)
@@ -37,8 +40,6 @@
   - [x] [start220226...done220508 c-make buildyourownlist doc 100%](http://www.buildyourownlisp.com/)
   - [x] [start210731...done220220 c-make buildyourownlist 100%](http://www.buildyourownlisp.com/)
   - [x] [start20210616... start learn c(give up golang)]
-  - [ ] 汇编梳理文档 0%
-  - [ ] 电子电路学习文档 0%
   
   + 代码翻译计划
     - [x] [ts jslispy doc100%](https://github.com/akerdi/jslispy)

@@ -106,7 +106,7 @@
 
 <!-- + ⚡ Fun fact: I like girls, I want to have more gf(if I become rich), But I like my littleshuai best. -->
 
-  Earn money about 30,000,000 RMB can make dream happen.
+  Earn money about 5,000,000 RMB can make dream happen.
   
   -50% ..................................................
   

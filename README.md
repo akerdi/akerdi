@@ -14,6 +14,7 @@
   - [x] [learn_makefile](https://github.com/akerdi/learn_makefile)
   - [ ] [start2311... learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
   - [ ] [start240325... Learn os with doc 1%](https://github.com/akerdi/os01)
+  - [ ] [**Learning video && audio**250320... 0%](https://github.com/akerdi)
   - [x] [start231201...done240301 LearnV8 with doc 100%](https://github.com/akerdi/Learn_V8)
   
   ~~- [ ] [start ... No.js 20%](知晓如何构建和调用过程)~~

@@ -12,6 +12,7 @@
   - [ ] [电子电路学习文档250330... 0%]
   - [x] [learn_assembly250301...250320 100%](https://github.com/akerdi/learn_assembly)
   - [x] [learn_makefile](https://github.com/akerdi/learn_makefile)
+  - [ ] Let's build Lua 0%
   - [ ] [start2311... learn TeamTalk 5%](https://github.com/balloonwj/TeamTalk)
   - [ ] [start240325... Learn os with doc 1%](https://github.com/akerdi/os01)
   - [ ] [**Learning video && audio**250320... 0%](https://github.com/akerdi)
@@ -49,7 +50,9 @@
     - [x] [cpp-make hash-table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
     - [x] [cpp-make redis 100%](https://github.com/akerdi/build-your-own-redis)
     - [x] [cpp-make build_your_own_log 100%](https://github.com/akerdi/build_your_own_log)
-    - [x] [cpp-make tinywebserver doc 100%](https://github.com/akerdi/tinywebserver-private) 
+    - [x] [cpp-make tinywebserver doc 100%](https://github.com/akerdi/tinywebserver)
+    - [x] [cmake tutorial](https://github.com/akerdi/learn_makefile)
+    - [x] [assembly tutorial](https://github.com/akerdi/learn_assembly)
     
 <!--
 + 学习赚钱
@@ -74,7 +77,7 @@
     - [x] 《计算机组成原理》 50%
     - [x] [《Beej's Guide to Network Programming》100%](https://beej.us/guide/bgnet/)
     - [ ] <小鱼儿汇编>[bilibili.com] 10%
-    - [x] <凡忆教育-电子电路>[bilibili.com] 50% / doc [50%]
+    - [x] <凡忆教育-电子电路>[bilibili.com] 90% / doc [50%]
     - [x] <esp32学习>[bilibili.com] 90%
    
   <!--
@@ -123,28 +126,34 @@ gcc hashtable knowledge.
   + [/akerdi/build-your-own-log](https://github.com/akerdi/build_your_own_log)
 
 gcc stack learn basic usage. build your own log.
-  + [/akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)
+
 
 gcc stack that teaches you how to make a database using b+ tree algorithm, this makes getting items within a logarithm time.
-  + [/akerdi/lval](https://github.com/akerdi/lval)
+  + [/akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)
 
 C++ stack that teaches you read user input a lisp language script, then evaluate the request.
-  + [/akerdi/jslispy](https://github.com/akerdi/jslispy)
+  + [/akerdi/lval](https://github.com/akerdi/lval)
 
 Javascript(typescript) stack that teaches you read user input a lisp language script, then evaluate the request.
-  + [/akerdi/tinyhttpd](https://github.com/akerdi/tinyhttpd)
+  + [/akerdi/jslispy](https://github.com/akerdi/jslispy)
 
 gcc project that give knowledge about basic http protocol and socket contact within main process and pipe to child process. Main proccess answers user request, and child process execute the repsonse.
-  + [/akerdi/buildyourownshell](https://github.com/akerdi/buildyourownshell)
+  + [/akerdi/tinyhttpd](https://github.com/akerdi/tinyhttpd)
 
 gcc build shell that can read user input and evaluate commands.
-  + [/akerdi/tinywebserver](https://github.com/akerdi/tinywebserver-private)
+  + [/akerdi/buildyourownshell](https://github.com/akerdi/buildyourownshell)
 
 C++ server, construct with socket and epoll technologies. This repository helps you understand how to use C++ to make an HTTP server.
+  + [/akerdi/tinywebserver](https://github.com/akerdi/tinywebserver)
 
+Makefile tutorial:
+  + [/akerdi/learn_makefile](https://github.com/akerdi/learn_makefile)
+
+Assembly tutorial:
+  + [/akerdi/learn_assembly](https://github.com/akerdi/learn_assembly)
 
 + 承接C++服务器开发项目，欢迎联系微信: akerdi
 + 承接Nodejs前后端开发项目，欢迎联系微信: akerdi
 <!-- + 欢迎关注微信订阅号 · 哈士程视界-->
 
-IT years since 2014.2 - now
+IT years since 2011 - now

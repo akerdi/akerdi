@@ -5,7 +5,7 @@
 + Handle well language: C, C++, NodeJS, Objective-C.
 + Knowledge: 编译原理、数据库开发、Socket、全栈开发Nodejs & Vue.
 + Learning knowledge progress: 
-  - [ ] opengl学习 (基础) 20%
+  - [ ] opengl学习 (基础) 20%[start250801...40](https://www.bilibili.com/video/BV1Xm411f7qP/?spm_id_from=333.788.player.switch&vd_source=fb5811736a06f69fda9a3f73dc8d3d8f&trackid=web_related_0.router-related-2206146-btjvp.1761616760163.92%]
   - [ ] opengl文档 0%
   - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   - [ ] [start2105... 中级软考 0%]
@@ -95,6 +95,7 @@
     - [x] 斗破苍穹 - 不好看. 对于那些一上来就有灵兽, 有大牛啥的, 有点免疫了.
     - [ ] 金瓶梅 - 2%, 刚开始, 还排不出时间去看.
     - [x] 吞嗤星空 - 看完觉得算是通顺, 前后矛盾, 过渡等还算OK, 不过觉得内容平乏, 升级打怪, 人物不立体, 胶水glue小说, 不建议观看.
+    - [x] 凡人修仙传 - 还不错, 好长好长, 好长好长, 仙界篇最后太忙, 疯狂加速听, 很是推荐的好小说. 不过总的不错, 一些些小细节有点点不太给力, 嘿嘿
   
   -->
 
@@ -112,7 +113,7 @@
 
   Earn money about 5,000,000 RMB can make dream happen.
   
-  -15% ..................................................
+  -10% ..................................................
   
 ## 开课
 

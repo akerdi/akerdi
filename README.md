@@ -5,7 +5,7 @@
 + Handle well language: C, C++, NodeJS, Objective-C.
 + Knowledge: 编译原理、数据库开发、Socket、全栈开发Nodejs & Vue.
 + Learning knowledge progress: 
-  - [ ] opengl学习 (基础) 20%[start250801...40](https://www.bilibili.com/video/BV1Xm411f7qP/?spm_id_from=333.788.player.switch&vd_source=fb5811736a06f69fda9a3f73dc8d3d8f&trackid=web_related_0.router-related-2206146-btjvp.1761616760163.92%]
+  - [ ] opengl学习 (基础) 90%[start250801...40](https://www.bilibili.com/video/BV1Xm411f7qP/?spm_id_from=333.788.player.switch&vd_source=fb5811736a06f69fda9a3f73dc8d3d8f&trackid=web_related_0.router-related-2206146-btjvp.1761616760163.92%)
   - [ ] opengl文档 0%
   - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
   - [ ] [start2105... 中级软考 0%]
@@ -113,7 +113,7 @@
 
   Earn money about 5,000,000 RMB can make dream happen.
   
-  -10% ..................................................
+  -30% ..................................................
   
 ## 开课
 

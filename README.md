@@ -68,15 +68,15 @@
   + 管理学
     - [x] 《管理的常识》
     - [x] 研发管理培训
-    - [ ] 其他管理书籍(请列举)
+    <!-- - [ ] 其他管理书籍(请列举)-->
   + 技术
     - [x] 《微服务容器化》
-    - [ ] 《编程之美》 20%
+    <!-- - [ ] 《编程之美》 20%-->
     - [x] 《Elasticsearch In Action》
-    - [ ] 《数据结构与算法分析》 1%
-    - [x] 《计算机组成原理》 50%
+    <!-- - [ ] 《数据结构与算法分析》 1%-->
+    <!-- - [x] 《计算机组成原理》 50%-->
     - [x] [《Beej's Guide to Network Programming》100%](https://beej.us/guide/bgnet/)
-    - [ ] <小鱼儿汇编>[bilibili.com] 10%
+    <!-- - [ ] <小鱼儿汇编>[bilibili.com] 10%-->
     - [x] <凡忆教育-电子电路>[bilibili.com] 90% / doc [50%]
     - [x] <esp32学习>[bilibili.com] 90%
    
@@ -111,9 +111,9 @@
 
 <!-- + ⚡ Fun fact: I like girls, I want to have more gf(if I become rich), But I like my littleshuai best. -->
 
-  Earn money about 5,000,000 RMB can make dream happen.
+  Earn money about 5,000,000,000 RMB can make dream happen.
   
-  -30% ..................................................
+  <!-- -30% ..................................................-->
   
 ## 开课
 

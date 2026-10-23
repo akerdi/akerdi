@@ -5,10 +5,10 @@
 + Handle well language: C, C++, NodeJS, Objective-C.
 + Knowledge: 编译原理、数据库开发、Socket、全栈开发Nodejs & Vue.
 + Learning knowledge progress: 
-  - [ ] opengl学习 (基础) 90%[start250801...40](https://www.bilibili.com/video/BV1Xm411f7qP/?spm_id_from=333.788.player.switch&vd_source=fb5811736a06f69fda9a3f73dc8d3d8f&trackid=web_related_0.router-related-2206146-btjvp.1761616760163.92%)
+  - [x] opengl学习 (基础) 90%[start250801...40](https://www.bilibili.com/video/BV1Xm411f7qP/?spm_id_from=333.788.player.switch&vd_source=fb5811736a06f69fda9a3f73dc8d3d8f&trackid=web_related_0.router-related-2206146-btjvp.1761616760163.92%)
   - [ ] opengl文档 0%
   - [ ] [start210221... cpp-make OpengL Game(thecherno) 20%](https://www.bilibili.com/video/BV1mL4y1b7vZ/?spm_id_from=333.337.search-card.all.click&vd_source=3870947727828a3261a9d870fa8d6f2c)
-  - [ ] [start2105... 中级软考 0%]
+  <-- - [ ] [start2105... 中级软考 0%] -->
   - [ ] [电子电路学习文档250330... 0%]
   - [x] [learn_assembly250301...250320 100%](https://github.com/akerdi/learn_assembly)
   - [x] [learn_makefile](https://github.com/akerdi/learn_makefile)
@@ -28,7 +28,7 @@
   - [x] [start230404...done2306 cpp-make build-your-own-redis[1-8] 100%](https://build-your-own.org/redis/)
   - [x] [start230501...done230528 c-make hash table doc 100%](https://github.com/akerdi/build-your-own-hash-table)
   - [x] [start2304...done230430 c-make hash table 100%](https://github.com/jamesroutley/write-a-hash-table)
-  - [ ] [start2304...]英语学习计划，4级单词修炼 10%
+  - [x] [start2304...]英语学习计划
   - [x] [start230216...done230501 c-make db doc 100%](https://github.com/akerdi/buildyourownsqlite)
   - [x] [start2202...done2210 c-make db 100%](https://cstack.github.io/db_tutorial/)
   - [x] [start230105...done230702 Tinyhttpd doc 100%](https://github.com/akerdi/tinyhttpd)
@@ -38,7 +38,7 @@
   - [x] [start221008...done221008 c-make buildyourownshell doc 100%](https://github.com/akerdi/buildyourownshell)
   - [x] [start220901...done230206 jslisp doc 100%](https://github.com/akerdi/jslispy)
   - [x] [start220831...done221215 js compiler doc 100%](https://github.com/akerdi/compiler)
-  - [x] 考取摩托车证 100%
+  - [x] 考取摩托车证
   - [x] [start220226...done220508 c-make buildyourownlist doc 100%](http://www.buildyourownlisp.com/)
   - [x] [start210731...done220220 c-make buildyourownlist 100%](http://www.buildyourownlisp.com/)
   - [x] [start20210616... start learn c(give up golang)]
@@ -96,6 +96,8 @@
     - [ ] 金瓶梅 - 2%, 刚开始, 还排不出时间去看.
     - [x] 吞嗤星空 - 看完觉得算是通顺, 前后矛盾, 过渡等还算OK, 不过觉得内容平乏, 升级打怪, 人物不立体, 胶水glue小说, 不建议观看.
     - [x] 凡人修仙传 - 还不错, 好长好长, 好长好长, 仙界篇最后太忙, 疯狂加速听, 很是推荐的好小说. 不过总的不错, 一些些小细节有点点不太给力, 嘿嘿
+    - [x] 逍遥小散仙
+    - [x] 六朝
   
   -->
 
@@ -111,7 +113,7 @@
 
 <!-- + ⚡ Fun fact: I like girls, I want to have more gf(if I become rich), But I like my littleshuai best. -->
 
-  Earn money about 5,000,000,000 RMB can make dream happen.
+  <!-- Earn money about 5,000,000,000 RMB can make dream happen. -->
   
   <!-- -30% ..................................................-->
   
